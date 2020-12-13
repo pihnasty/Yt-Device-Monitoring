@@ -1,0 +1,4 @@
+### comment
+*.py[cod]
+log/
+recources/product.json
